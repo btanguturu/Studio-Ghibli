@@ -1,0 +1,46 @@
+/* Your Awesome CSS */
+body{
+    background: url('http://getwallpapers.com/wallpaper/full/c/c/2/120325.jpg') #060108;
+/*   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;  */
+}
+
+h1{
+  color: #F2B26C;
+  text-align: center;
+  font-size: 3em;
+  font-family: 'Amaranth', sans-serif;
+  text-shadow: 3px 3px 5px #361E12;
+}
+
+#app {
+  display: flex;
+  flex-flow: row wrap; 
+}
+
+.movie{
+  background-color: #F2B26C;
+  width: 25%;
+  padding: 15px;
+  margin:2%;
+  border-radius: 10px;
+  height: 100%;
+}
+
+.title{
+  font-weight: bold;
+  font-size: 24px;
+  font-family: 'Amaranth', sans-serif;
+}
+
+.year{
+  font-size:12px;
+  padding: 5px 0 0 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.desc{
+  padding:10px 0px;
+  font-family: 'Open Sans', sans-serif;
+}
