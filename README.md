@@ -1,2 +1,2 @@
 # Studio-Ghibli
- Studio Ghibli API
+V. 1.0 is with just jQuery
